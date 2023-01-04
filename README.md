@@ -9,3 +9,7 @@ Dashboard 1
 
 Dashboard 2
 ![Sample Sales Report 2 1_Page2](https://user-images.githubusercontent.com/72449645/210566297-f65628be-3f22-4794-a07c-bd3fa8802310.png)
+
+
+
+<button name="button" onclick="https://app.powerbi.com/view?r=eyJrIjoiZDRkMjllZWEtNGQ5Mi00OGM4LTg5NjUtN2VjODRkMWEwNjRjIiwidCI6IjI2M2YxZTNmLWNkZjAtNDQ4Yy04MzVjLTk4YjFhYzJhMWNjOSJ9">Click me</button>
