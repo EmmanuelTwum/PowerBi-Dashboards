@@ -12,4 +12,4 @@ Dashboard 2
 
 
 
-<button name="button" onclick="https://app.powerbi.com/view?r=eyJrIjoiZDRkMjllZWEtNGQ5Mi00OGM4LTg5NjUtN2VjODRkMWEwNjRjIiwidCI6IjI2M2YxZTNmLWNkZjAtNDQ4Yy04MzVjLTk4YjFhYzJhMWNjOSJ9">Click me</button>
+<button onclick="window.location.href='https://app.powerbi.com/view?r=eyJrIjoiZDRkMjllZWEtNGQ5Mi00OGM4LTg5NjUtN2VjODRkMWEwNjRjIiwidCI6IjI2M2YxZTNmLWNkZjAtNDQ4Yy04MzVjLTk4YjFhYzJhMWNjOSJ9';">Click</button>
