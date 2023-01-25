@@ -12,3 +12,8 @@ Dashboard 2
 
 
 [Visit Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDRkMjllZWEtNGQ5Mi00OGM4LTg5NjUtN2VjODRkMWEwNjRjIiwidCI6IjI2M2YxZTNmLWNkZjAtNDQ4Yy04MzVjLTk4YjFhYzJhMWNjOSJ9)
+
+
+
+Web Analytics - Google Analytics 4
+![Web Analytics (GA4) v4](https://user-images.githubusercontent.com/72449645/214605175-0dc71c47-1a44-4f39-83f9-513609d91adb.png)
