@@ -13,13 +13,16 @@ Dashboard 2
 
 [Visit Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDRkMjllZWEtNGQ5Mi00OGM4LTg5NjUtN2VjODRkMWEwNjRjIiwidCI6IjI2M2YxZTNmLWNkZjAtNDQ4Yy04MzVjLTk4YjFhYzJhMWNjOSJ9)
 
-Simulation Data for a Telecom Company(Chiurn Analysis)
+
+Simulation Data for a Telecom Company(Chiurn Analysis):
+Telecom data was generated using python faker to simulate conditions of real world telecom case
 
 Dashboard 1
 ![Telco Analytics](https://user-images.githubusercontent.com/72449645/227513007-544dd4c7-1067-4031-8f3e-109b1652b2ed.png)
 
 Dashboard 2
 ![Telco Analytics 2](https://user-images.githubusercontent.com/72449645/227513215-dd96a5d2-5d81-4b17-9502-e0c34b41c970.png)
+
 
 Web Analytics - Google Analytics 4
 ![Web Analytics (GA4) v4](https://user-images.githubusercontent.com/72449645/214605175-0dc71c47-1a44-4f39-83f9-513609d91adb.png)
